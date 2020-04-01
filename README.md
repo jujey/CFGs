@@ -14,5 +14,5 @@ after doing this if you don't want to use my `openag.cfg` as your config file, a
 - move my cfg called `configdoze.cfg` inside `csgo` to `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` and then execute it by typing in the console `exec configdoze.cfg`
 
 
-## test
+## test (don't mind this)
 https://gitlab.com/torkel104/libstrangle
