@@ -6,8 +6,10 @@ after doing this if you don't want to use my `openag.cfg` as your config file, a
 - cl_forwardspeed 400
 - cl_sidespeed 400
 # what to do
+
 **openag**
 - rename `openag.cfg` to `autoexec.cfg`
+
 **csgo**
 - move my cfg called `configdoze.cfg` inside `csgo` to `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` and then execute it by typing in the console `exec configdoze.cfg`
 
