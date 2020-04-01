@@ -1,0 +1,1 @@
+"C:\GoldSrc Package 1.36\Bunnymod XT\Injector.exe" C:\Program Files (x86)\Steam\steamapps\common\Half-Life\hl.exe -game czeror +load ss -noforcemparms +cl_bob 0 -clockwindow 0 +bxt_hud_incorrect_fps_indicator 0 +cl_showfps 1 +fps_max 99.5

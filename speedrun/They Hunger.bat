@@ -1,0 +1,2 @@
+"C:\GoldSrc Package 1.36\Bunnymod XT\Injector.exe" C:\GoldSrc Package 1.36\Half-Life\hl.exe -game Hunger -noforcemparms +map c1a0 -stretchaspect -nofbo
+"C:\GoldSrc Package 1.36\RInput\RInput.exe" hl.exe
