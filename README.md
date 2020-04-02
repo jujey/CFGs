@@ -11,7 +11,7 @@ after doing this if you don't want to use my `openag.cfg` as your config file, a
 - rename `openag.cfg` to `autoexec.cfg`
 
 **csgo**
-- move my cfg called `configdoze.cfg` inside `csgo` to `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` and then execute it by typing in the console `exec configdoze.cfg`
+- move my cfg called `ze.cfg` inside `csgo` to `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` and then execute it by typing in the console `exec ze`
 
 
 ## test (don't mind this)
