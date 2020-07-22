@@ -2,7 +2,7 @@
 
 `sudo pacman -S lib32-sdl2` after downloading this move the file `libSDL2-2.0.so.0.10.0` from `usr/lib32/` to `~/.steam/steam/steamapps/common/Half-Life/` and rename it to `libSDL2-2.0.so.0`
 
-...after doing this add these lines to your HL1 .cfg file
+...after doing this add these lines to your .cfg file
 - `cl_forwardspeed 400`
 - `cl_sidespeed 400`
 
