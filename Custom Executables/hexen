@@ -1,0 +1,2 @@
+#!/usr/share/env bash
+wine .steam/steam/steamapps/common/Hexen/base/dosbox.exe
