@@ -1,4 +1,4 @@
-# fix hl1-steam-linux bugs
+# Fix hl1-steam-linux bugs
 
 `sudo pacman -S lib32-sdl2` after downloading this move the file `libSDL2-2.0.so.0.10.0` from `usr/lib32/` to `~/.steam/steam/steamapps/common/Half-Life/` and rename it to `libSDL2-2.0.so.0`
 
