@@ -14,3 +14,6 @@
 
 # CDDA Dependencies
 `sudo pacman -S sdl2_image sdl2_ttf sdl2_mixer freetype2 ncurses`
+
+# Add permissions to execute a certain
+for example: `sudo chmod a+rx /usr/bin/cdda`
