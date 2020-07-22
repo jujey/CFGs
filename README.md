@@ -6,8 +6,8 @@
 - `cl_forwardspeed 400`
 - `cl_sidespeed 400`
 
-# OpenAg cfg
+# OpenAg .cfg
 - rename `openag.cfg` to `autoexec.cfg`
 
-# CSGO cfg
-- move my cfg called `ze.cfg` inside `csgo` to `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` and then execute it by typing in the console `exec ze` or `exec muteze`
+# CSGO .cfg
+- move `ze.cfg` inside `csgo` to `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` and then execute it by typing in the console `exec ze` or `exec muteze`
