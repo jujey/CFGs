@@ -14,6 +14,9 @@
 
 # CDDA Dependencies
 `sudo pacman -S sdl2_image sdl2_ttf sdl2_mixer freetype2 ncurses`
+# GzDoom
+To play Hexen: Beyond Heretic you'll need **wine** and **https://www.zdoom.org/downloads**
+**Wine** -> `sudo pacman -S wine`
 
 # Add Permissions To Execute, Write, Delete, etc...
-for example: `sudo chmod a+rx /usr/bin/cdda`
+For example: `sudo chmod a+rx /usr/bin/cdda`
