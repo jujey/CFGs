@@ -14,6 +14,8 @@
 
 # EzQuake/Nquake
 - nquake https://github.com/nQuake/client-linux/raw/master/releases/nquake_installer-linux-latest.tar.gz
+- ezquake https://github.com/jujey/Games/blob/master/Custom%20Executables/ezquake-linux
+- cfg https://github.com/jujey/Games/blob/master/CFG'S/ezquake.cfg
 - old models `default` in console
 
 # CDDA Dependencies
