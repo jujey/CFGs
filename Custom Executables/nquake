@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-cd /usr/share/nquake && ./ezquake-linux-x86_64
+cd /usr/share/nquake && ./ezquake-linux
