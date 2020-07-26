@@ -13,8 +13,7 @@
 - move `ze.cfg` inside `csgo` to `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` and then execute it by typing in the console `exec ze` or `exec muteze`
 
 # EzQuake/Nquake
-- nquake https://aur.archlinux.org/packages/nquake/
-- ezquake https://aur.archlinux.org/packages/ezquake-git/
+- nquake https://github.com/nQuake/client-linux/raw/master/releases/nquake_installer-linux-latest.tar.gz
 - old models `default` in console
 
 # CDDA Dependencies
