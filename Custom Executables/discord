@@ -1,2 +1,2 @@
 #!/bin/bash
-epiphany --application-mode --profile="/home/jujey/.local/share/epiphany-discord-bccc14ee7da1d20ff06b9ff2497087e8c7d9f28b" https://discord.com/channels/@me
+qutebrowser --target window  https://discord.com/channels/@me
