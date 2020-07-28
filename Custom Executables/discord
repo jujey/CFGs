@@ -1,2 +1,2 @@
 #!/bin/bash
-cd ~/Discord-linux-x64/ && ./Discord
+qutebrowser --target window  https://discord.com/channels/@me
