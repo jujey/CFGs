@@ -24,5 +24,9 @@
 To play Hexen: Beyond Heretic you'll need **Wine** and [Gzdoom](https://www.zdoom.org/downloads).
 - **Wine** ➡️`sudo pacman -S wine`
 
+# Discord
+use nativefier
+`nativefier https://discord.com/channels/@me`
+
 # Add Permissions To Execute, Write, Delete, etc...
 For example: `sudo chmod a+rx /usr/bin/cdda`
