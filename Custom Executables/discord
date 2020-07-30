@@ -1,2 +1,2 @@
 #!/bin/bash
-qutebrowser --target window  https://discord.com/channels/@me
+PULSE_LATENCY_MSEC=90 discord
